@@ -15,6 +15,7 @@ In this project I have covered everything that is required to create a fully fun
 - Interceptors for Authenticated Flows.
 - Handling validations and loading state.
 - Complete Signup/Login Flow 
+- Hilt with Room database
 
 
 
