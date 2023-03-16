@@ -1,5 +1,5 @@
 
-# Yet Another Notes App
+# Damco Notes sample App
 
 This is a simple note taking app in Android with Integrated API. 
 In this project I have covered everything that is required to create a fully functional app including local database with CRUD operations.
